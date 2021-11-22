@@ -1,0 +1,52 @@
+/*Jose Angel Fernandez Betancourt*/
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&display=swap');
+body
+	{
+		background-image: url("imagenes/FondoServicios.jpeg");
+		background-size: cover;
+		overflow-x: hidden;
+	
+	}
+
+#pics2
+	{
+		max-height: 35%;
+		max-width: 25%;
+		margin: 4%;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		transition: 5s 0s ease;
+	}
+
+#inicio
+	{
+		margin-top: 5%;
+		font-size: 2vw;
+		margin-bottom: 5%;
+	}
+
+#seccion1
+	{
+		margin-bottom: 10%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+
+#azul
+	{
+		height: 400px;
+		width: 100%;
+		box-shadow: 0px 3px 5px #24252A;
+	}
+article
+	{
+		margin-bottom: 5%;
+		font-size: 2vw;
+	}
+#future
+	{
+		
+		margin-top: 5%;
+		font-size: 5vw;
+		text-align: center;
+	}
+
