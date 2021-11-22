@@ -27,7 +27,7 @@ header
 		height: 100%;
 		left: 0;
 		top: 0;
-		background: url("./imagenes/Contact.jpeg") no-repeat center;
+		background: url("../imagenes/Contact.jpeg") no-repeat center;
 		background-size: cover;
 		filter: blur(50px);
 		z-index: -1;
@@ -46,7 +46,7 @@ header
 
 .left
 	{
-		background: url("./imagenes/Contact.jpeg") no-repeat center;
+		background: url("../imagenes/Contact.jpeg") no-repeat center;
 		background-size: cover;
 		height: 100%;
 	}
